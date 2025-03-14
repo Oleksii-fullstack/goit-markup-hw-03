@@ -215,10 +215,6 @@ body {
 }
     
 
-.features .container {
-    padding-top: 120px;
-    padding-bottom: 120px;
-}
 
 .features-subtitle {
         font-weight: 500;
@@ -292,7 +288,6 @@ body {
 .team-list-item {
     background-color: #fff;
     border-radius: 0 0 4px 4px;
-    padding: 0px 0px 32px 0px;
     width: 264px;
     height: 380px;
 }
@@ -319,7 +314,7 @@ body {
         letter-spacing: 0.02em;
         text-align: center;
         color: #434455;
-        margin-bottom: 32px;
+        
 }
 
 /* #endregion Team */
@@ -362,7 +357,6 @@ body {
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
-        margin-top: 32px;
         margin-bottom: 8px;
 }
 
@@ -372,7 +366,6 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
-        margin-bottom: 32px;
 }
 /* #endregion Portfolio */
 
@@ -393,7 +386,6 @@ body {
         letter-spacing: 0.02em;
         color: #f4f4fd;
         max-width: 264px;
-        margin-top: 16px;
 }
 
 .logo.footer-logo {
